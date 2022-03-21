@@ -96,4 +96,4 @@ I also wanted to know if the dog stage variable had any impact on the ratings th
 
 I finally wanted to know if better rated dogs also had more retweets and likes from the WeRateDogs followers, as could be expected. However, the correlation between the score given by WeRateDogs and the favorite_count/retweet_count from their followers very high (0.02 for both), which indicates that dogs with higher scores aren't necessarily the ones that the public likes the most.
 
-![Rating / Retweet correlation](/images/fig02.jpg)
+![Rating / Retweet correlation](/images/fig03.jpg)
