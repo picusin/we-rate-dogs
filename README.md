@@ -84,14 +84,16 @@ It has been overall a good practice for understanding the entire wrangle process
 
 By looking at the rating distribution without outliers (rating_numerator variable), that shows a left sckewed histogram, we can see that the scores given to dogs tend to be on the higher end of the range. The average and the median are very close, at around 11. We could also observe that the majority of dogs had a rating between 10 and 13, and the extreme values were the least used.
 
-![Score distribution](/images/fig01.jpg)
+![Rating distribution](/images/fig01.jpg)
 
 ### Dog Stage distribution:
 
 I also wanted to know if the dog stage variable had any impact on the ratings that dogs received. When looking at the 4 different stages separately, we saw that doggo, floofer and puppo got a higher average and median scores than the rest of the dogs (more than 1 point in some cases). However, pupper had a score similar to the dogs without stage. When separating into 2 categories (with and without stage), we saw the values got very similar to each other, which may be explained by the fact that most dogs with a stage assigned were puppers (see visualization below), the ones with a lower score average.
 
-![Dos Stage distribution](/images/fig02.jpg)
+![Dog Stage distribution](/images/fig02.jpg)
 
 ### Correlation between rating and retweets:
 
 I finally wanted to know if better rated dogs also had more retweets and likes from the WeRateDogs followers, as could be expected. However, the correlation between the score given by WeRateDogs and the favorite_count/retweet_count from their followers very high (0.02 for both), which indicates that dogs with higher scores aren't necessarily the ones that the public likes the most.
+
+![Rating / Retweet correlation](/images/fig02.jpg)
