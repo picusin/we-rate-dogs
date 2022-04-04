@@ -1,5 +1,4 @@
 # WeRateDogs wrangling and analysis
-## by Miguel Orellana
 
 This was the fourth project of Udacity's Data Analyst Nanodegree, completed at the end of the Data Wrangling section.
 
